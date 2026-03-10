@@ -32,4 +32,3 @@ Key components are:
 •	Training the model
 •	Training progress measuring
 •	Evaluation of the model
-
